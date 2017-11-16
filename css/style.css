@@ -1,0 +1,28 @@
+body {
+	font-family: 'Roboto', sans-serif ;
+	background-color: white;
+}
+
+.fotos {
+	width: 300px;
+	height: 250px;
+	margin: 20px;
+	float: left;
+}
+
+.tres {
+	clear: left;
+}
+
+.uno {
+	width: 300px;
+	height: 200px;
+	margin: 20px;
+	}
+
+.dos{
+	width: 300px;
+	height: 200px;
+	margin: 20px;
+}
+
