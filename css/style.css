@@ -1,6 +1,18 @@
 body {
 	font-family: 'Roboto', sans-serif ;
+	font-size: 24px;
 	background-color: white;
+}
+
+hr {
+	display: inline-block;
+	width: 75px;
+	height: 2px;
+	background-color: grey;
+}
+
+section {
+	font-size: 14px;
 }
 
 .fotos {
